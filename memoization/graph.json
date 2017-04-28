@@ -1,0 +1,46 @@
+{
+  "Graph": {
+    "V": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      }
+    ],
+    "E": [
+      {
+        "start_id": 1,
+        "end_id": 3,
+        "weight": 2
+      },
+      {
+        "start_id": 1,
+        "end_id": 4,
+        "weight": 9
+      },
+      {
+        "start_id": 3,
+        "end_id": 4,
+        "weight": 2
+      },
+      {
+        "start_id": 2,
+        "end_id": 4,
+        "weight": 10
+      },
+      {
+        "start_id": 1,
+        "end_id": 2,
+        "weight": 1
+      }
+    ]
+  }
+
+}
